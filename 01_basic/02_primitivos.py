@@ -5,7 +5,7 @@ numero_flotante = 1.5                    # int (En Python no hay distinción 'nu
 texto = "Variable de Tipo Texto 1." # str
 Texto = "Variable de Tipo Texto 2." # str
 verdadero = True               # bool (¡Ojo! La primera letra siempre es Mayúscula)
-falso = False                  # bool 
+falso = False                  # bool
 
 # En Python no existe 'undefined'. Si quieres declarar algo sin valor, usamos None.
 no_definido = None             # NoneType
